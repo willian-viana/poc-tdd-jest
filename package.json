@@ -1,0 +1,21 @@
+{
+  "name": "tdd-with-jest",
+  "version": "0.0.1",
+  "description": "A TDD POC using JEST",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Willian Viana",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.18.4"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}
